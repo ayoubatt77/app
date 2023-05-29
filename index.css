@@ -1,0 +1,90 @@
+.langue-arabe-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24.98px;
+  background-color: var(--color-orangered);
+  width: 345.03px;
+  height: 49.97px;
+}
+.b {
+  position: absolute;
+  top: 14.28px;
+  left: 145.15px;
+}
+.langue-arabe {
+  position: relative;
+  width: 345.03px;
+  height: 49.97px;
+  cursor: pointer;
+}
+.langue-fr-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24.98px;
+  background-color: #00aff0;
+  width: 345.03px;
+  height: 49.97px;
+}
+.franais {
+  position: absolute;
+  top: 14.28px;
+  left: 128.49px;
+}
+.langue-ang-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24.98px;
+  background-color: #3e63b4;
+  width: 345.03px;
+  height: 49.97px;
+}
+.anglais {
+  position: absolute;
+  top: 14.28px;
+  left: 136.82px;
+}
+.langue-esp-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24.98px;
+  background-color: #0084b4;
+  width: 345.03px;
+  height: 49.97px;
+}
+.espaol {
+  position: absolute;
+  top: 14.28px;
+  left: 132.06px;
+}
+.langue-arabe-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 59.49px;
+}
+.home-page1-inner {
+  position: absolute;
+  top: 322px;
+  left: calc(50% - 198px);
+  display: flex;
+  flex-direction: row;
+  padding: 10.707831382751465px 24.984939575195312px;
+  align-items: center;
+  justify-content: center;
+}
+.home-page1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 19.04px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
